@@ -1,0 +1,5 @@
+2024-10-27T13:09:29+00:00 INFO Payment gateway enabled: "Stripe Card Processing"
+2024-10-27T13:09:30+00:00 INFO Payment gateway enabled: "Alipay"
+2024-10-27T13:09:31+00:00 INFO Payment gateway enabled: "iDEAL"
+2024-10-27T13:09:37+00:00 INFO Payment gateway enabled: "WeChat"
+2024-10-27T14:26:04+00:00 INFO Payment gateway enabled: "Cash on delivery"
